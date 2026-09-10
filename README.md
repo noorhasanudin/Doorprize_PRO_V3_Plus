@@ -102,7 +102,9 @@ Aplikasi Doorprize PRO — V3 Plus adalah aplikasi untuk undian Doorprize berbas
 	- Klik Tombol `Simpan`atau Tombol `Batal` untuk membatalkan perubahan pengaturan.
 	- Klik Tombol `⚠️ Hapus Semua Data` untuk menghapus semua database yang tersimpan di SQLite (Data Peserta, Hadiah, Pemenang dan Pengaturan).
 	- Klik Tombol `← Dashboard`untuk kembali ke Halaman Dashboard.
-	
+
+<img width="1887" height="915" alt="image" src="https://github.com/user-attachments/assets/554d61e2-f33e-462a-8b02-8ebb8d1eba74" />
+
 ### Input Data Peserta
 	- Isikan Nomor Tiket pada row input `Tiket` (*Wajib diisi).
 	- Isikan Nama peserta pada row input `Nama peserta` (*Opsional).
