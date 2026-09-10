@@ -115,6 +115,9 @@ Aplikasi Doorprize PRO — V3 Plus adalah aplikasi untuk undian Doorprize berbas
 	- Untuk Upload data Peserta menggunakan Template file Excel Klik `📊 Upload Excel Peserta` -> Pilih File Excel Peserta (.xlxs) -> `Open`
 	- Untuk menghapus data Peserta satu per satu klik tommbol `❌` pada sisi kanan data Peserta.
 
+<img width="1131" height="347" alt="image" src="https://github.com/user-attachments/assets/e7fb95e0-b28d-448e-a651-224c156e0000" />
+	
+
 ### Input Data Hadiah
 	- Isikan Nama hadiah pada row input `Nama hadiah` (*Wajib diisi).
 	- Isikan Jumlah pada row input `Jumlah` (*Wajib diisi dengan angka minimal `1`).
@@ -123,6 +126,8 @@ Aplikasi Doorprize PRO — V3 Plus adalah aplikasi untuk undian Doorprize berbas
 	- Untuk Upload data Hadiah menggunakan Template file Excel Klik `📊 Upload Excel Hadiah` -> Pilih File Excel Peserta (.xlxs) -> `Open`
 	- Untuk menghapus data Hadiah satu per satu klik tommbol `❌` pada sisi kanan data Hadiah.
 	- Klik Tombol `← Dashboard`untuk kembali ke Halaman Dashboard.
+
+<img width="825" height="172" alt="image" src="https://github.com/user-attachments/assets/1448c282-8e07-47ad-8821-3868f6da4fe2" />
 	
 ### Reset Riwayat Pemenang
 	- Klik Tombol `Reset Hasil` untuk mengembalikan semua data pemenang.
