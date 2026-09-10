@@ -1,0 +1,107 @@
+<!doctype html>
+<html lang="id">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Doorprize PRO</title>
+<style>
+body
+{
+font-family:Segoe UI,Arial;
+background:#071225;
+color:#fff;margin:0
+}
+.wrap
+{
+max-width:1500px;
+margin:auto;
+padding:40px}
+.card
+{
+background:#0d172c;
+border:1px solid #24314a;
+border-radius:20px;
+padding:30px
+}
+.btn
+{
+display:inline-block;
+background:#173d83;
+color:#fff;
+padding:14px 20px;
+border-radius:12px;
+text-decoration:none;
+font-weight:800;
+margin:6px 4px
+}
+p
+{
+color:#aeb9cc
+}
+
+        /* Wadah utama untuk membuat ikon sejajar */
+        .icon-container {
+            display: block;       /* Mengaktifkan block */
+            gap: 20px;          /* Jarak antar ikon */
+            justify-content: center; /* Mengatur ikon di tengah secara horizontal */
+            align-items: center;     /* Mengatur ikon di tengah secara vertikal */
+            padding: 20px;
+        }
+
+        /* Gaya dasar untuk link ikon */
+        .icon-link {
+            transition: transform 0.3s ease, opacity 0.3s ease; /* Efek transisi halus */
+            display: inline-block;
+        }
+
+        /* Ukuran gambar ikon */
+        .icon-link img {
+            width: 90%;        /* Atur lebar ikon */
+            height: 90%;       /* Atur tinggi ikon */
+            object-fit: contain;
+        }
+
+        /* EFEK HOVER: Membesar dan sedikit memudar saat kursor di atasnya */
+        .icon-link:hover {
+            transform: scale(1.1); /* Membesarkan ikon sebesar 10% */
+            opacity: 0.5;          /* Mengurangi kejelasan gambar */
+        }
+
+</style>
+</head>
+<body>
+<div class="wrap">
+<div class="card">
+<h1>🎁 Doorprize <span style="color:#f5c451">PRO</span></h1>
+<p>Dashboard Doorprize PRO</p>
+<div class="icon-container">
+        <!-- Ikon 1 -->
+        <a href="/register_and_setting" target="_self" class="icon-link">
+            <img src="/static/register_and_setting.png" alt="Registrasi & Pengaturan — Login Admin">
+        </a>
+        
+        <!-- Ikon 2 -->
+        <a href="/qr-cards" target="_self" class="icon-link">
+            <img src="/static/qr_cards.png" alt="QR Peserta">
+			
+        <!-- Ikon 3 -->
+        <a href="/attendance" target="_self" class="icon-link">
+            <img src="/static/attendance.png" alt="Konfirmasi Kehadiran">
+        </a>
+
+        </a>
+        <!-- Ikon 4 -->
+        <a href="/state" target="_self" class="icon-link">
+            <img src="/static/state.png" alt="Status Peserta">
+        </a>
+        <!-- Ikon 5 -->
+        <a href="/draw" target="_self" class="icon-link">
+            <img src="/static/draw.png" alt="Putar Undian">
+        </a>		
+    </div>
+
+</div>  
+</div>
+</div>
+</div>
+</body>
+</html>
