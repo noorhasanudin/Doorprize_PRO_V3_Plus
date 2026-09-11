@@ -76,7 +76,7 @@ Aplikasi Doorprize PRO — V3 Plus adalah aplikasi untuk undian Doorprize berbas
 	- `📰 Status Peserta`
 	- `🎡 Putar Undian`
 
-<img syyle="width: 100%; height: auto; display: block;" width="1911" height="957" alt="image" src="https://github.com/user-attachments/assets/b19e44b6-a30b-458d-8888-459adb485d15" >
+<img style="width: 100%; height: auto; display: block;" width="1911" height="957" alt="image" src="https://github.com/user-attachments/assets/b19e44b6-a30b-458d-8888-459adb485d15" >
 <div class="text" style="position: absolute; bottom: 20px; left: 50%; transform: translateX(-50%); color: white; background: rgba(0,0,0,0.5); padding: 8px 16px; font-size: 16px; text-align: center; ">
     Dashboard Doorprize PRO V3 Plus
   </div>
