@@ -161,6 +161,8 @@ Aplikasi Doorprize PRO — V3 Plus adalah aplikasi untuk undian Doorprize berbas
 	- Klik Tombol `✓ Konfirmasi Hadir` sampai tampil pesan `Kehadiran berhasil dikonfirmasi`, dan pada Status Kehadiran  yang sebelumnya `⏳Belum Hadir` menjadi `Hadir`.
 	- Klik Tombol `← Dashboard` untuk kembali ke Halaman Dashboard.
 <img width="1917" height="957" alt="image" src="https://github.com/user-attachments/assets/16ee8773-2203-4148-adb9-4231349d6911" />
+
+<img width="1897" height="965" alt="image" src="https://github.com/user-attachments/assets/9bfaa065-3731-4daa-8aff-392fa8949b52" />
 	
 	
 ## Menu `📰 Status Peserta`
@@ -183,8 +185,12 @@ Aplikasi Doorprize PRO — V3 Plus adalah aplikasi untuk undian Doorprize berbas
 	- Seluruh Pemenang akan tampil pada bagian sisi bawah.
 	- Klik Tombol `← Dashboard` untuk kembali ke Halaman Dashboard.	
 
-	<img width="1901" height="960" alt="image" src="https://github.com/user-attachments/assets/910e3ad1-58ec-4b22-a3d3-58b98f0e6e0c" />
-	<img width="1891" height="922" alt="image" src="https://github.com/user-attachments/assets/e1daa9fa-d095-420f-a6e7-2399316f0ac5" />
+<img width="1901" height="960" alt="image" src="https://github.com/user-attachments/assets/711b4bb1-c81d-4c23-83c3-4587ef0d495f" />
+
+<img width="1896" height="962" alt="image" src="https://github.com/user-attachments/assets/84e7d4bd-7c4d-4266-aa7a-41a981d71832" />
+
+
+
 
 
 	
