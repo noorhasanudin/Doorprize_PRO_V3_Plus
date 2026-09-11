@@ -125,7 +125,7 @@ Pengaturan
 <img width="955" height="447" alt="image" src="https://github.com/user-attachments/assets/2001f68f-3a29-41ba-91ed-413d62f483c6" />
 Input Data Peserta Manual
 <img width="1131" height="347" alt="image" src="https://github.com/user-attachments/assets/e7fb95e0-b28d-448e-a651-224c156e0000" />
-Impor Excel Data Peserta	
+Template Impor Excel Data Peserta	
 
 ### Input Data Hadiah
 	- Isikan Nama hadiah pada row input `Nama hadiah` (*Wajib diisi).
@@ -139,7 +139,7 @@ Impor Excel Data Peserta
 <img width="917" height="440" alt="image" src="https://github.com/user-attachments/assets/73362251-0452-4735-a672-a759fcb924df" />
 Input Data Hadiah Manual
 <img width="825" height="172" alt="image" src="https://github.com/user-attachments/assets/1448c282-8e07-47ad-8821-3868f6da4fe2" />
-Impor Excel Data Hadiah	
+Template Impor Excel Data Hadiah	
 ### Reset Riwayat Pemenang
 	- Klik Tombol `Reset Hasil` untuk mengembalikan semua data pemenang.
 
