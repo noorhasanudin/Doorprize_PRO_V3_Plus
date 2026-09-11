@@ -76,10 +76,9 @@ Aplikasi Doorprize PRO — V3 Plus adalah aplikasi untuk undian Doorprize berbas
 	- `📰 Status Peserta`
 	- `🎡 Putar Undian`
 
-<img style="width: 100%; height: auto; display: block;" width="1911" height="957" alt="image" src="https://github.com/user-attachments/assets/b19e44b6-a30b-458d-8888-459adb485d15" >
-<div class="text" style="position: absolute; bottom: 20px; left: 50%; transform: translateX(-50%); color: white; background: rgba(0,0,0,0.5); padding: 8px 16px; font-size: 16px; text-align: center; ">
-    Dashboard Doorprize PRO V3 Plus
-  </div>
+<img width="1911" height="957" alt="image" src="https://github.com/user-attachments/assets/b19e44b6-a30b-458d-8888-459adb485d15" >
+Dashboard Doorprize PRO V3 Plus
+
 
 ## Menu `📝 Registrasi & Pengaturan`
 
@@ -97,6 +96,7 @@ Aplikasi Doorprize PRO — V3 Plus adalah aplikasi untuk undian Doorprize berbas
 	- Logout: Klik Tombol `🔒 Logout Admin`
 	- Klik Tombol `← Kembali ke Dashboard`untuk kembali ke Halaman Dashboard.
 <img width="1900" height="961" alt="image" src="https://github.com/user-attachments/assets/e4377ea8-1720-4957-aa07-6a82e41d9480" />
+Login Admin
 
 ### Pengaturan
 	- Klik Tombol `⚙️ Pengaturan`
@@ -110,6 +110,7 @@ Aplikasi Doorprize PRO — V3 Plus adalah aplikasi untuk undian Doorprize berbas
 	- Klik Tombol `← Dashboard`untuk kembali ke Halaman Dashboard.
 
 <img width="1887" height="915" alt="image" src="https://github.com/user-attachments/assets/554d61e2-f33e-462a-8b02-8ebb8d1eba74" />
+Pengaturan
 
 ### Input Data Peserta
 	- Isikan Nomor Tiket pada row input `Tiket` (*Wajib diisi).
@@ -122,9 +123,9 @@ Aplikasi Doorprize PRO — V3 Plus adalah aplikasi untuk undian Doorprize berbas
 	- Untuk menghapus data Peserta satu per satu klik tommbol `❌` pada sisi kanan data Peserta.
 
 <img width="955" height="447" alt="image" src="https://github.com/user-attachments/assets/2001f68f-3a29-41ba-91ed-413d62f483c6" />
-
+Input Data Peserta Manual
 <img width="1131" height="347" alt="image" src="https://github.com/user-attachments/assets/e7fb95e0-b28d-448e-a651-224c156e0000" />
-	
+Impor Excel Data Peserta	
 
 ### Input Data Hadiah
 	- Isikan Nama hadiah pada row input `Nama hadiah` (*Wajib diisi).
@@ -136,13 +137,14 @@ Aplikasi Doorprize PRO — V3 Plus adalah aplikasi untuk undian Doorprize berbas
 	- Klik Tombol `← Dashboard`untuk kembali ke Halaman Dashboard.
 
 <img width="917" height="440" alt="image" src="https://github.com/user-attachments/assets/73362251-0452-4735-a672-a759fcb924df" />
-
+Input Data Hadiah Manual
 <img width="825" height="172" alt="image" src="https://github.com/user-attachments/assets/1448c282-8e07-47ad-8821-3868f6da4fe2" />
-	
+Impor Excel Data Hadiah	
 ### Reset Riwayat Pemenang
 	- Klik Tombol `Reset Hasil` untuk mengembalikan semua data pemenang.
 
 <img width="1900" height="967" alt="image" src="https://github.com/user-attachments/assets/46386e1c-ab65-4b56-bc3d-4be20f6651d1" />
+Reset Riwayat Pemenang
 
 ## Menu `🪪 QR Peserta`
 	- Klik `Download Kartu PDF` pada bagian bawah Kartu QR masing-masing peserta untuk menguduh Kartu QR Setiap Peserta menjadi file PDF (nomor_tiket.pdf).
@@ -151,11 +153,11 @@ Aplikasi Doorprize PRO — V3 Plus adalah aplikasi untuk undian Doorprize berbas
 	- Klik Tombol `Konfirmasi kehadiran` untuk ke Halaman `Konfirmasi kehadiran`.
 
 <img width="1907" height="811" alt="image" src="https://github.com/user-attachments/assets/108b3051-4bd3-4120-bba7-8513c2dbfb7d" />
-	
+QR Peserta	
 
 ## Menu `📝 Konfirmasi Kehadiran`
 
-### Konfirmasi kehadiran menggunakan Kartu QR Peserta
+### Konfirmasi Kehadiran menggunakan Kartu QR Peserta
 	- Klik Tombol `📷 Mulai Scanner`
 	- Arahkan Kartu QR Peserta ke posisi Kotak QR kamera pada PC/Smartphone sampai tampil pesan `Peserta sudah terkonfirmasi hadir`, dan pada Status Kehadiran yang sebelumnya 
 	  `⏳Belum Hadir` menjadi `Hadir`.
@@ -167,6 +169,7 @@ Aplikasi Doorprize PRO — V3 Plus adalah aplikasi untuk undian Doorprize berbas
 		5. Jika scanner library tidak termuat, periksa koneksi internet karena halaman memuat `html5-qrcode` dari CDN.
 
 <img width="1917" height="957" alt="image" src="https://github.com/user-attachments/assets/16ee8773-2203-4148-adb9-4231349d6911" />
+Konfirmasi Kehadiran menggunakan Kartu QR Peserta
 
 ### Konfirmasi kehadiran manual
 	- Isikan `Nomor Tiket` pada row input `Nomor Tiket` sebagai alternatif jika scanner tidak tersedia
@@ -174,12 +177,13 @@ Aplikasi Doorprize PRO — V3 Plus adalah aplikasi untuk undian Doorprize berbas
 	- Klik Tombol `← Dashboard` untuk kembali ke Halaman Dashboard.
 
 <img width="1897" height="965" alt="image" src="https://github.com/user-attachments/assets/9bfaa065-3731-4daa-8aff-392fa8949b52" />
-	
+Konfirmasi kehadiran manual	
 	
 ## Menu `📰 Status Peserta`
 	- Pada menu Status Peserta digunakan untuk menampilkan status kehadiran peserta `⏳Belum Hadir` / `Hadir`/ `Hadir` `🏆 Sudah Menang`
 
 <img width="1887" height="947" alt="image" src="https://github.com/user-attachments/assets/3f242a46-eb9a-4d5e-bdfa-c92083020a4f" />
+Status Peserta
 
 ## Menu `🎡 Putar Undian`
 
@@ -196,9 +200,9 @@ Aplikasi Doorprize PRO — V3 Plus adalah aplikasi untuk undian Doorprize berbas
 	- Klik Tombol `← Dashboard` untuk kembali ke Halaman Dashboard.	
 
 <img width="1901" height="960" alt="image" src="https://github.com/user-attachments/assets/711b4bb1-c81d-4c23-83c3-4587ef0d495f" />
-
+Melakukan Pengundian Doorprize
 <img width="1896" height="962" alt="image" src="https://github.com/user-attachments/assets/84e7d4bd-7c4d-4266-aa7a-41a981d71832" />
-
+Hsil Pemenang Undian Doorprize
 
 
 
