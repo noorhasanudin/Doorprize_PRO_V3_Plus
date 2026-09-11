@@ -169,8 +169,7 @@ Aplikasi Doorprize PRO — V3 Plus adalah aplikasi untuk undian Doorprize berbas
 ## Menu `📰 Status Peserta`
 	- Pada menu Status Peserta digunakan untuk menampilkan status kehadiran peserta `⏳Belum Hadir` / `Hadir`/ `Hadir` `🏆 Sudah Menang`
 
-<img width="1892" height="957" alt="image" src="https://github.com/user-attachments/assets/c32f501c-7986-4417-a564-5e12e46ac973" />
-
+<img width="1887" height="947" alt="image" src="https://github.com/user-attachments/assets/3f242a46-eb9a-4d5e-bdfa-c92083020a4f" />
 
 ## Menu `🎡 Putar Undian`
 
