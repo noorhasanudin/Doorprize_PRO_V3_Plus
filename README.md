@@ -95,7 +95,7 @@ Dashboard Doorprize PRO V3 Plus
 	- Password baru minimal 8 karakter dan disimpan sebagai hash di SQLite.
 	- Logout: Klik Tombol `🔒 Logout Admin`
 	- Klik Tombol `← Kembali ke Dashboard`untuk kembali ke Halaman Dashboard.
-<img width="1900" height="961" alt="image" src="https://github.com/user-attachments/assets/e4377ea8-1720-4957-aa07-6a82e41d9480" />
+<img width="100%" height="Auto" alt="image" src="https://github.com/user-attachments/assets/e4377ea8-1720-4957-aa07-6a82e41d9480" />
 Login Admin
 
 ### Pengaturan
@@ -109,7 +109,7 @@ Login Admin
 	- Klik Tombol `⚠️ Hapus Semua Data` untuk menghapus semua database yang tersimpan di SQLite (Data Peserta, Hadiah, Pemenang dan Pengaturan).
 	- Klik Tombol `← Dashboard`untuk kembali ke Halaman Dashboard.
 
-<img width="1887" height="915" alt="image" src="https://github.com/user-attachments/assets/554d61e2-f33e-462a-8b02-8ebb8d1eba74" />
+<img width="100%" height="Auto" alt="image" src="https://github.com/user-attachments/assets/554d61e2-f33e-462a-8b02-8ebb8d1eba74" />
 Pengaturan
 
 ### Input Data Peserta
@@ -122,10 +122,10 @@ Pengaturan
 	- Untuk Upload data Peserta menggunakan Template file Excel Klik `📊 Upload Excel Peserta` -> Pilih File Excel Peserta (.xlxs) -> `Open`
 	- Untuk menghapus data Peserta satu per satu klik tommbol `❌` pada sisi kanan data Peserta.
 
-<img width="955" height="447" alt="image" src="https://github.com/user-attachments/assets/2001f68f-3a29-41ba-91ed-413d62f483c6" />
+<img width="100%" height="Auto" alt="image" src="https://github.com/user-attachments/assets/2001f68f-3a29-41ba-91ed-413d62f483c6" />
 Input Data Peserta Manual
 
-<img width="1131" height="347" alt="image" src="https://github.com/user-attachments/assets/e7fb95e0-b28d-448e-a651-224c156e0000" />
+<img width="100%" height="Auto" alt="image" src="https://github.com/user-attachments/assets/e7fb95e0-b28d-448e-a651-224c156e0000" />
 Template Impor Excel Data Peserta	
 
 ### Input Data Hadiah
@@ -137,16 +137,16 @@ Template Impor Excel Data Peserta
 	- Untuk menghapus data Hadiah satu per satu klik tommbol `❌` pada sisi kanan data Hadiah.
 	- Klik Tombol `← Dashboard`untuk kembali ke Halaman Dashboard.
 
-<img width="917" height="440" alt="image" src="https://github.com/user-attachments/assets/73362251-0452-4735-a672-a759fcb924df" />
+<img width="100%" height="Auto" alt="image" src="https://github.com/user-attachments/assets/73362251-0452-4735-a672-a759fcb924df" />
 Input Data Hadiah Manual
 
-<img width="825" height="172" alt="image" src="https://github.com/user-attachments/assets/1448c282-8e07-47ad-8821-3868f6da4fe2" />
+<img width="100%" height="Auto" alt="image" src="https://github.com/user-attachments/assets/1448c282-8e07-47ad-8821-3868f6da4fe2" />
 Template Impor Excel Data Hadiah	
 
 ### Reset Riwayat Pemenang
 	- Klik Tombol `Reset Hasil` untuk mengembalikan semua data pemenang.
 
-<img width="1900" height="967" alt="image" src="https://github.com/user-attachments/assets/46386e1c-ab65-4b56-bc3d-4be20f6651d1" />
+<img width="100%" height="Auto" alt="image" src="https://github.com/user-attachments/assets/46386e1c-ab65-4b56-bc3d-4be20f6651d1" />
 Reset Riwayat Pemenang
 
 ## Menu `🪪 QR Peserta`
@@ -155,7 +155,7 @@ Reset Riwayat Pemenang
 	- File Kartu QR peserta dapat dikirimkan kepada masing-masing Peserta yang dapat digunakan untuk melakukan `Konfirmasi kehadiran peserta` 
 	- Klik Tombol `Konfirmasi kehadiran` untuk ke Halaman `Konfirmasi kehadiran`.
 
-<img width="1907" height="811" alt="image" src="https://github.com/user-attachments/assets/108b3051-4bd3-4120-bba7-8513c2dbfb7d" />
+<img width="100%" height="Auto" alt="image" src="https://github.com/user-attachments/assets/108b3051-4bd3-4120-bba7-8513c2dbfb7d" />
 QR Peserta	
 
 ## Menu `📝 Konfirmasi Kehadiran`
@@ -171,7 +171,7 @@ QR Peserta
 		4. Untuk komputer jaringan LAN `192.168.*.*`, kamera tidak bisa digunakan tanpa HTTPS (tidak berfungsi).		
 		5. Jika scanner library tidak termuat, periksa koneksi internet karena halaman memuat `html5-qrcode` dari CDN.
 
-<img width="1917" height="957" alt="image" src="https://github.com/user-attachments/assets/16ee8773-2203-4148-adb9-4231349d6911" />
+<img width="100%" height="Auto" alt="image" src="https://github.com/user-attachments/assets/16ee8773-2203-4148-adb9-4231349d6911" />
 Konfirmasi Kehadiran menggunakan Kartu QR Peserta
 
 ### Konfirmasi kehadiran manual
@@ -179,13 +179,13 @@ Konfirmasi Kehadiran menggunakan Kartu QR Peserta
 	- Klik Tombol `✓ Konfirmasi Hadir` sampai tampil pesan `Kehadiran berhasil dikonfirmasi`, dan pada Status Kehadiran  yang sebelumnya `⏳Belum Hadir` menjadi `Hadir`.
 	- Klik Tombol `← Dashboard` untuk kembali ke Halaman Dashboard.
 
-<img width="1897" height="965" alt="image" src="https://github.com/user-attachments/assets/9bfaa065-3731-4daa-8aff-392fa8949b52" />
+<img width="100%" height="Auto" alt="image" src="https://github.com/user-attachments/assets/9bfaa065-3731-4daa-8aff-392fa8949b52" />
 Konfirmasi kehadiran manual	
 	
 ## Menu `📰 Status Peserta`
 	- Pada menu Status Peserta digunakan untuk menampilkan status kehadiran peserta `⏳Belum Hadir` / `Hadir`/ `Hadir` `🏆 Sudah Menang`
 
-<img width="1887" height="947" alt="image" src="https://github.com/user-attachments/assets/3f242a46-eb9a-4d5e-bdfa-c92083020a4f" />
+<img width="100%" height="Auto" alt="image" src="https://github.com/user-attachments/assets/3f242a46-eb9a-4d5e-bdfa-c92083020a4f" />
 Status Peserta
 
 ## Menu `🎡 Putar Undian`
@@ -202,10 +202,10 @@ Status Peserta
 	- Seluruh Pemenang akan tampil pada bagian sisi bawah.
 	- Klik Tombol `← Dashboard` untuk kembali ke Halaman Dashboard.	
 
-<img width="1901" height="960" alt="image" src="https://github.com/user-attachments/assets/711b4bb1-c81d-4c23-83c3-4587ef0d495f" />
+<img width="100%" height="Auto" alt="image" src="https://github.com/user-attachments/assets/711b4bb1-c81d-4c23-83c3-4587ef0d495f" />
 Melakukan Pengundian Doorprize
 
-<img width="1896" height="962" alt="image" src="https://github.com/user-attachments/assets/84e7d4bd-7c4d-4266-aa7a-41a981d71832" />
+<img width="100%" height="Auto" alt="image" src="https://github.com/user-attachments/assets/84e7d4bd-7c4d-4266-aa7a-41a981d71832" />
 Hsil Pemenang Undian Doorprize
 
 
