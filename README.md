@@ -179,7 +179,7 @@ Konfirmasi Kehadiran menggunakan Kartu QR Peserta
 	- Klik Tombol `✓ Konfirmasi Hadir` sampai tampil pesan `Kehadiran berhasil dikonfirmasi`, dan pada Status Kehadiran  yang sebelumnya `⏳Belum Hadir` menjadi `Hadir`.
 	- Klik Tombol `← Dashboard` untuk kembali ke Halaman Dashboard.
 
-<img width="100%" height="Auto" alt="image" src="https://github.com/user-attachments/assets/9bfaa065-3731-4daa-8aff-392fa8949b52" />
+<img width="100%" height="Auto" alt="image" src="https://github.com/user-attachments/assets/8addd97f-e4d5-4abb-a942-85664c58fa8d" />
 Konfirmasi kehadiran manual	
 	
 ## Menu `📰 Status Peserta`
