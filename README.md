@@ -3,7 +3,7 @@ Doorprize PRO — V3 Plus Copyright 2026 noorhasanudin
 # Overview Aplikasi Doorprize PRO — V3 Plus
 Aplikasi Doorprize PRO — V3 Plus adalah aplikasi untuk undian Doorprize berbasis Web, yang dapat melakukan pengundian hadiah Doorprize secara otomatis dijalankan oleh sistem, yang cepat, dan transparan, tanpa rekayasa, karena sistem akan secara acak memilih pemenang undian dari daftar peserta yang sudah terverifikasi, dan hanya Peserta yang bestatus "HADIR" yang masuk dalam proses Undian Doorprize. Aplikasi secara otomatis membuat Kartu QR (File PDF) yang dapat digunakan untuk melakukan Konfirmasi Kehadiran Peserta. 
 
-<img width="1253" height="1253" alt="image" src="https://github.com/user-attachments/assets/41c64bb5-8c3c-4a1f-9c26-9d43d7455721" />
+<img width="120" height="120" alt="image" src="https://github.com/user-attachments/assets/41c64bb5-8c3c-4a1f-9c26-9d43d7455721" />
  
 # Keunggulan Aplikasi Doorprize PRO — V3 Plus
 
