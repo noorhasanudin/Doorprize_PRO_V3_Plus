@@ -146,7 +146,7 @@ Template Impor Excel Data Hadiah
 ### Reset Riwayat Pemenang
 	- Klik Tombol `Reset Hasil` untuk mengembalikan semua data pemenang.
 
-<img width="100%" height="Auto" alt="image" src="https://github.com/user-attachments/assets/46386e1c-ab65-4b56-bc3d-4be20f6651d1" />
+<img width="100%" height="Auto" alt="image" src="https://github.com/user-attachments/assets/9f993e0b-bd07-487f-92b4-2662110bd4c3" />
 Reset Riwayat Pemenang
 
 ## Menu `🪪 QR Peserta`
@@ -202,10 +202,10 @@ Status Peserta
 	- Seluruh Pemenang akan tampil pada bagian sisi bawah.
 	- Klik Tombol `← Dashboard` untuk kembali ke Halaman Dashboard.	
 
-<img width="100%" height="Auto" alt="image" src="https://github.com/user-attachments/assets/711b4bb1-c81d-4c23-83c3-4587ef0d495f" />
+<img width="100%" height="Auto" alt="image" src="https://github.com/user-attachments/assets/4630716d-3fe1-42e3-bd83-1124e03dccbc" />
 Melakukan Pengundian Doorprize
 
-<img width="100%" height="Auto" alt="image" src="https://github.com/user-attachments/assets/84e7d4bd-7c4d-4266-aa7a-41a981d71832" />
+<img width="100%" height="Auto" alt="image" src="https://github.com/user-attachments/assets/99c3210d-df1d-4fb3-ba50-d1740fc6f522" />
 Hsil Pemenang Undian Doorprize
 
 
