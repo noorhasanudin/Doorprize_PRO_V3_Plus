@@ -156,11 +156,12 @@ Aplikasi Doorprize PRO — V3 Plus adalah aplikasi untuk undian Doorprize berbas
 		4. Untuk komputer jaringan LAN `192.168.*.*`, kamera tidak bisa digunakan tanpa HTTPS (tidak berfungsi).		
 		5. Jika scanner library tidak termuat, periksa koneksi internet karena halaman memuat `html5-qrcode` dari CDN.
 
+<img width="1917" height="957" alt="image" src="https://github.com/user-attachments/assets/16ee8773-2203-4148-adb9-4231349d6911" />
+
 ### Konfirmasi kehadiran manual
 	- Isikan `Nomor Tiket` pada row input `Nomor Tiket` sebagai alternatif jika scanner tidak tersedia
 	- Klik Tombol `✓ Konfirmasi Hadir` sampai tampil pesan `Kehadiran berhasil dikonfirmasi`, dan pada Status Kehadiran  yang sebelumnya `⏳Belum Hadir` menjadi `Hadir`.
 	- Klik Tombol `← Dashboard` untuk kembali ke Halaman Dashboard.
-<img width="1917" height="957" alt="image" src="https://github.com/user-attachments/assets/16ee8773-2203-4148-adb9-4231349d6911" />
 
 <img width="1897" height="965" alt="image" src="https://github.com/user-attachments/assets/9bfaa065-3731-4daa-8aff-392fa8949b52" />
 	
