@@ -1,12 +1,12 @@
-Doorprize PRO — V3 Plus Copyright 2026 noorhasanudin
+Doorprize PRO — V3 Copyright 2026 noorhasanudin
 
-# Overview Aplikasi Doorprize PRO — V3 Plus
+# Overview Aplikasi Doorprize PRO — V3
 <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/41c64bb5-8c3c-4a1f-9c26-9d43d7455721" />
 
-Aplikasi Doorprize PRO — V3 Plus adalah aplikasi untuk undian Doorprize berbasis Web, yang dapat melakukan pengundian hadiah Doorprize secara otomatis dijalankan oleh sistem, yang cepat, dan transparan, tanpa rekayasa, karena sistem akan secara acak memilih pemenang undian dari daftar peserta yang sudah terverifikasi, dan hanya Peserta yang bestatus "HADIR" yang masuk dalam proses Undian Doorprize. Aplikasi secara otomatis membuat Kartu QR (File PDF) yang dapat digunakan untuk melakukan Konfirmasi Kehadiran Peserta. 
+Aplikasi Doorprize PRO — V3 adalah aplikasi untuk undian Doorprize berbasis Web, yang dapat melakukan pengundian hadiah Doorprize secara otomatis dijalankan oleh sistem, yang cepat, dan transparan, tanpa rekayasa, karena sistem akan secara acak memilih pemenang undian dari daftar peserta yang sudah terverifikasi, dan hanya Peserta yang bestatus "HADIR" yang masuk dalam proses Undian Doorprize. Aplikasi secara otomatis membuat Kartu QR (File PDF) yang dapat digunakan untuk melakukan Konfirmasi Kehadiran Peserta. 
 
  
-# Keunggulan Aplikasi Doorprize PRO — V3 Plus
+# Keunggulan Aplikasi Doorprize PRO — V3
 
 - Aplikasi dibuat menggunakan Framework `Flask Python` yang fleksibel, sangat ringan dan cepat.
 - Database menggunakan `SQLite3`, tanpa perlu menginstall MySQL
@@ -50,14 +50,14 @@ Aplikasi Doorprize PRO — V3 Plus adalah aplikasi untuk undian Doorprize berbas
 	- /templates/state.html
 	- app.py
 	- doorprize_pro.db
-	- Doorprize_PRO_V3_Plus.bat
+	- Doorprize_PRO_V3.bat
 	- Template_Upload_Hadiah_Doorprize.xlsx
 	- Template_Upload_Peserta_Doorprize.xlsx
 	- README.md
 	- requirements.txt
 
 ## Menjalankan Aplikasi
-	Klik `Doorprize_PRO_V3_Plus.bat` akan otomatis menjalankan `DOS/Windows Powershell` yang terdiri dari:
+	Klik `Doorprize_PRO_V3.bat` akan otomatis menjalankan `DOS/Windows Powershell` yang terdiri dari:
 	- Menginstall tools Library `Python`: `pip install -r requirements.txt`.
 	- Menjalankan Aplikasi `Flask Python`: `python app.py`
 	- Memjalankan `Chrome` Localhost `http://127.0.0.1:5000/`
@@ -69,7 +69,7 @@ Aplikasi Doorprize PRO — V3 Plus adalah aplikasi untuk undian Doorprize berbas
 	- Klik Kanan Pada Shortcut Desktop `Doorprize_PRO_V3_Plus` -> `Properties` -> `Change Icon` -> `Browse` Cari file `/static/doorprice_pro.ico` -> `Open`
 	
 ## Dashboard
-	Terdapat 5 Menu Utama pada Dashboard Doorprize PRO — V3 Plus:
+	Terdapat 5 Menu Utama pada Dashboard Doorprize PRO — V3:
 	- `📝 Registrasi & Pengaturan`
 	- `🪪 QR Peserta`
 	- `📷 Konfirmasi Kehadiran`
@@ -77,7 +77,7 @@ Aplikasi Doorprize PRO — V3 Plus adalah aplikasi untuk undian Doorprize berbas
 	- `🎡 Putar Undian`
 
 <img width="1911" height="957" alt="image" src="https://github.com/user-attachments/assets/b19e44b6-a30b-458d-8888-459adb485d15" >
-Dashboard Doorprize PRO V3 Plus
+Dashboard Doorprize PRO V3
 
 
 ## Menu `📝 Registrasi & Pengaturan`
