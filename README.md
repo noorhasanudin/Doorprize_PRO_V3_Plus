@@ -64,9 +64,9 @@ Aplikasi Doorprize PRO — V3 adalah aplikasi untuk undian Doorprize berbasis We
 	- Menampilkan Dashboard Aplikasi `Doorprize PRO — V3 Plus`
 
 ## Membuat Shortcut Aplikasi + Icon Desktop
-	- Klik Kanan pada `Doorprize_PRO_V3_Plus.bat` -> Send to `Desktop (Create Shortcut)`
-	- Klik Kanan pada Shortcut Desktop `Doorprize__PRO_V3_Plus.bat - Shortcut` `Rename` menjadi `Doorprize_PRO_V3_Plus`
-	- Klik Kanan Pada Shortcut Desktop `Doorprize_PRO_V3_Plus` -> `Properties` -> `Change Icon` -> `Browse` Cari file `/static/doorprice_pro.ico` -> `Open`
+	- Klik Kanan pada `Doorprize_PRO_V3.bat` -> Send to `Desktop (Create Shortcut)`
+	- Klik Kanan pada Shortcut Desktop `Doorprize__PRO_V3.bat - Shortcut` `Rename` menjadi `Doorprize_PRO_V3`
+	- Klik Kanan Pada Shortcut Desktop `Doorprize_PRO_V3` -> `Properties` -> `Change Icon` -> `Browse` Cari file `/static/doorprice_pro.ico` -> `Open`
 	
 ## Dashboard
 	Terdapat 5 Menu Utama pada Dashboard Doorprize PRO — V3:
